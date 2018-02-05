@@ -15,7 +15,9 @@ Users can now enter topics that matter to them, and Tenet will find them the con
 
 ## What are the business applications of a project like this?
 
-Unsupervised topic discovery is a mainstay of businesses trying to discover themes in customer feedback. GuidedLDA is a semi-supervised topic discovery model, which allows you to leverage the power of unsupervised learning to complement a business's domain knowledge. For example: An airline company trying to automate parts of its customer service experience may want to automatically classify customer responses. With a purely unsupervised approach, they are often left with nonsensical categories that don't reflect their domain knowledge. With a semi-supervised approach, they can seed topics like {delayed, hours, missed, connection} and {cancelled, rebook} and {attendant, service, experience} to populate topics correponding to delayed and cancelled flights, customer experience, in addition to discovering topics they didn't anticipate. 
+Unsupervised topic discovery is a mainstay of businesses trying to discover themes in customer feedback. GuidedLDA is a semi-supervised topic discovery model, which allows you to leverage the power of unsupervised learning to complement a business's domain knowledge. 
+
+For example: An airline company trying to automate parts of its customer service experience may want to automatically classify customer complaints. With a purely unsupervised approach, they are often left with nonsensical categories that don't reflect their domain knowledge. With a semi-supervised approach, they can seed topics like {delayed, hours, missed, connection} and {cancelled, rebook} and {attendant, service, experience} to populate topics correponding to delayed and cancelled flights, customer experience, in addition to discovering topics they didn't anticipate. 
 
 
 ## What is Guided Latent Dirichlet Analysis?
