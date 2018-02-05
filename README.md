@@ -1,5 +1,5 @@
-# Tenet
-Political Language Processing
+# Tenet (www.adamazzam.com)
+Political Language Processing 
 
 
 ## What is Tenet?
